@@ -4,8 +4,10 @@ header {
     justify-content: space-between;
     height: 100px;
     width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
-
 
 header img {
     width: 100px;
